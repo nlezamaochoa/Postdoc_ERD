@@ -14,5 +14,5 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 littleforecast <- function() {
-  print("Hello, world!. branch")
+  print("Hello, world!. new branch")
 }

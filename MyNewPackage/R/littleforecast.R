@@ -1,1 +1,4 @@
-hello()
+littleforecast <- function() {
+  print("Hello, world!")
+}
+
